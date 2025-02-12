@@ -36,7 +36,7 @@
 
 ## ✨ Latest Note
 
-- Download - [Click Here]()
+- Download - [Click Here](https://github.com/misha6198/Korepi/releases/download/v5.4.3/Korepi5.4.zip)
 
 ---
 
